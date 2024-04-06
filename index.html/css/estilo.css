@@ -1,0 +1,62 @@
+.titulo{color: wheat;
+    font-size: 70px;
+    text-align: center;
+    border-radius: 45px;
+    border:1px solid black;
+    background:black;
+   max-width: 3840;
+}
+.h2{
+    font-size: 40px;
+    text-align: center;
+}
+.h3{font-size: 25px;}
+.div{
+    font-style: italic;
+    font-size: 20px;
+    color: black;
+    
+}
+.rodape{
+ color: gold;
+background: black;
+margin-left: 10%;
+padding:30px;
+border-radius:18px ;
+text-decoration: none;
+cursor: pointer;
+transition: 0.2s;
+}
+a.rodape:hover{
+    padding: 40px;
+    border-radius: 22px;
+}
+.whatsapp{
+    background-color: green;
+    padding: 18px;
+    color:white;
+    height: 20px;
+    max-width: 35px;
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+    border-radius: 80%;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+li a{
+    color:black;
+    text-decoration: none;
+}
+.float img{
+      float:left;
+      margin-left : 30px;
+      margin-right: 16px;
+      height: 250px;
+
+}
+.id{
+    font-size: 60px;
+    margin-right: 20px;
+}
